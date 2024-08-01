@@ -1,0 +1,13 @@
+import java.io.*
+public class rectangle {
+  public static void main(string[]args){
+    int length=10;
+    int breadth=5;
+    for(int i=0;i<length:i++){
+      for(int j=0;j<breadth;j++){
+        system.out.print("*");
+        }
+      system.out.println(" ");
+      }
+}
+}
